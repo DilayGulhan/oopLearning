@@ -1,5 +1,5 @@
 # oopLearning
-Participated by:
+Our Group for this:
 Dilay Gülhan Öztürk
 Damla Keleş 
 Nurcan Yıldız 
